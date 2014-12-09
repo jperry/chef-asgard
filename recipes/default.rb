@@ -20,7 +20,7 @@
 node.default["tomcat"]["use_security_manager"] = false
 node.default["tomcat"]["java_options"] = "-Djava.awt.headless=true  -Xmx768M -XX:MaxPermSize=144m"
 
-node["tomcat"]["base_version"] = "7"
+node.default["tomcat"]["base_version"] = "7"
 
 include_recipe "tomcat"
 
