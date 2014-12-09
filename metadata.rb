@@ -1,4 +1,4 @@
-name             "asgard"
+name             "chef-asgard"
 maintainer       "Phillip Goldenburg"
 maintainer_email "phillip.goldenburg@sailpoint.com"
 license          "Apache 2.0"
